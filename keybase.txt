@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kazuaki_ishiguro
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kazuaki.work
+  * I am kazuaki_ishiguro (https://keybase.io/kazuaki_ishiguro) on keybase.
+  * I have a public key ASBjtBQio9lh9Jmz4BuFfdjT1jxYAr9LIWk7NhS6GqRatgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203618a5f01480e25e5212f46cfddbb12fddac061ba7ea1459a8170fb1870f1d7d0a",
+      "host": "keybase.io",
+      "kid": "012063b41422a3d961f499b3e01b857dd8d3d63c5802bf4b21693b3614ba1aa45ab60a",
+      "uid": "0ddb24d877f9fa144dc27bf9537a7319",
+      "username": "kazuaki_ishiguro"
+    },
+    "merkle_root": {
+      "ctime": 1548861155,
+      "hash": "0afc27188e2825a31eab92ee2217e5f19898a672b114c5df3c3d9696a6e54ca70232aa036462b9b54fc77e4d9ae21cce489fe67c8d57da87225582077f86ecfa",
+      "hash_meta": "dfc690be226f5a3daa89f07e06679560fcb1beb7ce79fadddcfc819eb1223cd0",
+      "seqno": 4662679
+    },
+    "service": {
+      "entropy": "1ZlcLhFq7NdR1L85vpNNwsDy",
+      "hostname": "kazuaki.work",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.13.2"
+  },
+  "ctime": 1548861175,
+  "expire_in": 504576000,
+  "prev": "779f48fd081c95187da8fda4d4a45e9472633e09fb0e1be929a9e3830a4ec71e",
+  "seqno": 32,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgY7QUIqPZYfSZs+AbhX3Y09Y8WAK/SyFpOzYUuhqkWrYKp3BheWxvYWTESpcCIMQgd59I/QgclRh9qP2k1KRelHJjPgn7DhvpKanjgwpOxx7EINB6N+MMcv7UvRsg6UTwAP5X6+bsaodbeGuMl5Cl6feiAgHCo3NpZ8RApXCZkBSTl3f5EKg9du4KFDra3XhPPOdjQNMJ981XmeEhCxTZdr4+YPOTd08ArUDqTil0nmH3jX2DZnPpOvWUAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILRuAfvb34F7LzK7IMWEDUnmnXy7mZv4UZi7axicz8Xro3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kazuaki_ishiguro
+
+==================================================================
