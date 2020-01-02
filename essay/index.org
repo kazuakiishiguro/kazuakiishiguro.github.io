@@ -1,0 +1,8 @@
+#+TITLE: index
+#+LANGUAGE: en
+#+OPTIONS: toc:nil num:nil author:nil creator:nil html-style:nil
+#+HTML_DOCTYPE: html5
+#+HTML_LINK_HOME: ../
+#+HTML_HEAD: <style>body{font-family:monospace; max-width:33vw;}</style>
+
+- [[file:bleed_and_authenticity.html][Bleed and authenticity]]
