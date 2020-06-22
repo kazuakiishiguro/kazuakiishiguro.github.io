@@ -1,2 +1,8 @@
 ** my personal website
 visit [[https://kazuaki.dev][kazuaki.dev]]
+
+*** for generating html from org-mode
+
+#+BEGIN_SRC emacs
+C-c C-e h h
+#+END_SRC

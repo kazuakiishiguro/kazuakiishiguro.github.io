@@ -19,21 +19,21 @@ Kazuaki Ishiguro, born in far east Japan, lived on the west coast, currently liv
 - Rust, C, Python, Bash, Solidity, Javascript
 - Max/Msp, Protools, Ableton live, Cuttin N Scratching
 ** Extra knowledge
-- Djing (Technics SL-1200, Vestax PDX-2000, Vinyl, Vestax PMC-05PRO05, Pioneer DJM-900, AKAI MPC-1000 and so many extra...)
+- Djing (Technics SL-1200, Vestax PDX-2000, Vestax PMC-05PRO05, Pioneer DJM-900, AKAI MPC-1000 and so many extra...)
 - Sound engineering
 - Pure audio & sound system
 - Hiphop, IDM, Techno, Hardcore punk, Heavy metal, Black metal, Japanese pop music
 - Kinesis advantage keyboard
 - Cooking
-- Kitty
+- 🐈
 * Links
-- [[https://kazuaki.dev/essay][Essay]] 
+- [[https://kazuaki.dev/essay][Essay]]
 - [[https://github.com/kazuakiishiguro][Github]]
 - [[https://twitter.com/KazuakiIshiguro][Twitter]]
 * Misc
 - for eth:
-  - kazuaki.eth
+  - [[https://etherscan.io/address/0x639752f607ded5aa18939ea7d46aaced33b88363][kazuaki.eth]]
 - pgp fingerprint:
-  - BD7036EF047DF7B8AFA30D5008D60A5BD286E949
+  - [[https://kazuaki.dev/kazuaki.asc][08D60A5BD286E949]]
 
 
