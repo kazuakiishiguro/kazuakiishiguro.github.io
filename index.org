@@ -34,6 +34,4 @@ Kazuaki Ishiguro, born in far east Japan, lived on the west coast, currently liv
 - for eth:
   - [[https://etherscan.io/address/0x639752f607ded5aa18939ea7d46aaced33b88363][kazuaki.eth]]
 - pgp fingerprint:
-  - [[https://kazuaki.dev/kazuaki.asc][08D60A5BD286E949]]
-
-
+  - [[https://keybase.io/kazuaki_ishiguro][FDDF 04C5 FE41 5E2D]]
