@@ -11,7 +11,7 @@
 * Addresses
 - Kazuaki Ishiguro is chiet blockchain architect at [[https://couger.co.jp][Couger]].
 - Also Japan regional head at [[https://entethalliance.org][Enterprise Ethereum Alliance]].
-- kazuaki(at)couger.co.jp
+- gurokazu (at) gmail (dot) com
 Kazuaki Ishiguro, born in far east Japan, lived on the west coast, currently living in Tokyo.
 * Expertise
 - Peer-to-peer, Distributed system, Linux
@@ -24,6 +24,8 @@ Kazuaki Ishiguro, born in far east Japan, lived on the west coast, currently liv
 - Pure audio & sound system
 - Hiphop, IDM, Techno, Hardcore punk, Heavy metal, Black metal, Japanese pop music
 - Kinesis advantage keyboard
+- Logicool M570
+- Harman Miller - Aeron Chair
 - Cooking
 - 🐈
 * Links
