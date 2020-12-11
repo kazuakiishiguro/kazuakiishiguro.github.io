@@ -28,6 +28,8 @@ Kazuaki Ishiguro, born in far east Japan, lived on the west coast, currently liv
 - Harman Miller - Aeron Chair
 - Cooking
 - 🐈
+* Projects
+- [[https://zkcre.am][zkcre.am]] - zk-SNARK based voting 
 * Links
 - [[https://kazuaki.dev/essay][Essay]]
 - [[https://github.com/kazuakiishiguro][Github]]
