@@ -1,0 +1,43 @@
+#+TITLE: Hello World
+#+AUTHOR: Kazuaki Ishiguro
+#+LANGUAGE: en
+#+OPTIONS: toc:nil num:nil author:t creator:nil html-style:nil
+#+HTML_DOCTYPE: html5
+#+HTML_LINK_HOME: ../
+#+HTML_LINK_UP: ../essay
+#+HTML_HEAD: <style>body{max-width:660px; margin: 0 auto;}</style>
+
+Do you remember the day you first wrote the Hello World program?
+
+In my case, I don't remember anymore, but the excitement of simply telling the computer to do what I wanted it to do, and then automating the rest of the process, has remained with me for a long time now.
+
+If this world is a simulation, then I may have succeeded in creating and automating another Hello World program in it.
+
+And I want to swear one thing here.
+
+I will continue to love this program with all my heart and soul until I am finished with it.
+
+Welcome to the world, Hasu.
+
+From noob as a father
+
+-----
+
+あなたは最初にHello Worldのプログラムを書いた日を覚えているだろうか？
+
+私の場合はもう覚えていないが、単純にコンピューターを自分の動かしたい様に指示を与え、その後の動作を自動化する事に興奮を覚えてから長い時間が経った今でもその興奮から覚めることが無いままである。
+
+この世の中はシミュレーションだとすれば、私はその中でもう一つのハローワールドのプログラムを生み出し、自動化する事に成功したのかもしれない。
+
+そして一つだけここに誓いたい。
+
+このプログラムは私がその役目を終えるまで心から大切に、愛を込めて関わり続ける事を。
+
+ようこそ世界、蓉。
+
+父としての初心者より
+
+-----
+
+kazuaki
+<2020-12-26 hSat>
