@@ -9,9 +9,10 @@
 #+LATEX_HEADER:
 [[./portrait.jpg]]
 * Addresses
-- Kazuaki Ishiguro is chiet blockchain architect at [[https://couger.co.jp][Couger]].
-- Also Japan regional head at [[https://entethalliance.org][Enterprise Ethereum Alliance]].
-- kazuakiishiguro@protonmail.com
+- Kazuaki Ishiguro
+- Chief blockchain architect at [[https://couger.co.jp][Couger]].
+- Japan regional head at [[https://entethalliance.org][Enterprise Ethereum Alliance]].
+- kazuakiishiguro(at)protonmail.com
 Kazuaki Ishiguro, born in far east Japan, lived on the west coast, currently living in Tokyo.
 * Expertise
 - Peer-to-peer, Distributed system, Linux
