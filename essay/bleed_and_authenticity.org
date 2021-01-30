@@ -5,7 +5,7 @@
 #+HTML_DOCTYPE: html5
 #+HTML_LINK_HOME: ../
 #+HTML_LINK_UP: ../essay
-#+HTML_HEAD: <style>body{max-width:660px; margin: 0 auto;}</style>
+#+HTML_HEAD: <style>body{max-width:660px; margin: 0 auto; font-family: monospace}</style>
 
 "The real thing will bleed when cut."
 

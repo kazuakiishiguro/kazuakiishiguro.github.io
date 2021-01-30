@@ -3,7 +3,7 @@
 #+OPTIONS: toc:nil num:nil author:nil creator:nil html-style:nil
 #+HTML_DOCTYPE: html5
 #+HTML_LINK_HOME: ../
-#+HTML_HEAD: <style>body{max-width:660px; margin: 0 auto;}</style>
+#+HTML_HEAD: <style>body{max-width:660px; margin: 0 auto; font-family: monospace}</style>
 
 - [[file:bleed_and_authenticity.html][Bleed and authenticity]] <2020-01-01 Wed>
 - [[file:hello_world.html][Hello World]] <2020-12-26 Sat>
