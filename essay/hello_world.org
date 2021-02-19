@@ -5,7 +5,7 @@
 #+HTML_DOCTYPE: html5
 #+HTML_LINK_HOME: ../
 #+HTML_LINK_UP: ../essay
-#+HTML_HEAD: <style>body{max-width:660px; margin: 0 auto; font-family: monospace}</style>
+#+HTML_HEAD: <style>html{font-family: Georgia, serif; font-size: 20px; line-height: 1.5;} body {margin: 0 auto; max-width: 36em; padding: 50px;}</style>
 
 Do you remember the day you first wrote the Hello World program?
 
