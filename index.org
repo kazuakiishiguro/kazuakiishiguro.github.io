@@ -4,7 +4,7 @@
 #+OPTIONS: toc:nil num:nil author:t creator:nil html-style:nil
 #+HTML_DOCTYPE: html5
 #+HTML_CONTAINER: div
-#+HTML_HEAD: <style>html{font-family: Georgia, serif; font-size: 20px; line-height: 1.5;} body {margin: 0 auto; max-width: 36em; padding: 50px;}</style>
+#+HTML_HEAD: <style>html{font-family: Georgia, serif; line-height: 1.5;} body {margin: 0 auto; max-width: 36em; padding: 50px;}</style>
 #+DESCRIPTION: Kazuaki Ishiguro's personal website
 #+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.3 (<a href="https://orgmode.org">Org</a> mode 9.1.9)
 #+LATEX_HEADER:
